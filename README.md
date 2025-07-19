@@ -2,7 +2,7 @@
 The repo contains `/home/$USER/` configs of my Linux setup. 
 The directory structure mirros mine, paths should work as-is if cloned. 
 
-# mpv
+# the `mpv` config:
 mpv is a cross-platform media player, which you probably prefer over VLC just like me: 
 https://dev.to/hopsayer/mpv-vs-vlc-making-mpv-comfortable-to-use-26e4
 
