@@ -7,7 +7,7 @@ mpv is a cross-platform media player, which you probably prefer over VLC just li
 https://dev.to/hopsayer/mpv-vs-vlc-making-mpv-comfortable-to-use-26e4
 
 [Here](https://github.com/hopsayer/personal-linux-configs/tree/main/.config/mpv)'s my mpv config, mentioned in the article. 
-
+ 
 It makes it more comfortable than by default:
 
 * Better keybinds for seeking and playback speed
