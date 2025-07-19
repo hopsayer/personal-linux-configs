@@ -1,5 +1,5 @@
 # how to use
-This contains some user configs of my Linux setup, located in the `/home/$USER/`. 
+The repo contains some user configs of my Linux setup, located in the `/home/$USER/`. 
 The directory structure reflects mine, paths must work if cloned. 
 
 # mpv
