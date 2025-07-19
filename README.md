@@ -10,10 +10,9 @@ https://dev.to/hopsayer/mpv-vs-vlc-making-mpv-comfortable-to-use-26e4
  
 It makes it more comfortable than by default:
 
-* Better keybinds for seeking and playback speed
-* Instant pause on window focus loss
-* Hardware acceleration
-* Sharper video scaling
-* Compact OSD
-* Mouse wheel controls
-* Useful scripts and extensions
+* Player window stays open after playback finishes
+* Loop open files infinitely
+* Playback control panel (OSC) now hides later and has a fade-out animation.
+* Service messages hide later than by default. 
+* Inactive mouse cursor hides later. 
+* Hardware decoding by default if available
